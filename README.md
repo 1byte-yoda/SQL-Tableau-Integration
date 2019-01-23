@@ -12,7 +12,7 @@ Database used: https://www.dropbox.com/s/lhj4axkaupjhmbq/employees_mod.sql?dl=0
 
 <a href = 'https://github.com/PHMark/SQL-Tableau-Integration/tree/master/Sample%204'>Sample 4</a> - Contains SQL, CSV and a tableau visualization that obtains the average male and female salary per department within the range of $50,000 - $90,000. This range can be modified using a different argument in the SQL procedure.
 
-<p class='font-size: 15px;'> Finally, the dashboard containing the 4 charts obtained from Sample 1 to Sample 4. </p>
+<p style='font-size: 16px;'> Finally, the dashboard containing the 4 charts obtained from Sample 1 to Sample 4. </p>
 <img src='https://github.com/PHMark/SQL-Tableau-Integration/raw/master/Dashboard.PNG'> </img>
 
  </body>
