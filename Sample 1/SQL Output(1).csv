@@ -1,0 +1,23 @@
+gender,number_of_employees,dept_name,calendar_year
+M,8,Production,1990
+F,2,"Human Resources",1990
+M,12,Marketing,1991
+F,5,Finance,1991
+M,9,"Human Resources",1992
+F,8,Marketing,1992
+F,11,Marketing,1993
+M,10,Marketing,1993
+M,13,Marketing,1994
+F,6,"Human Resources",1994
+M,11,Marketing,1995
+F,9,Marketing,1995
+M,7,Finance,1996
+F,3,Marketing,1996
+M,8,Marketing,1997
+F,3,Development,1997
+F,2,Marketing,1998
+M,4,Finance,1998
+M,4,Marketing,1999
+F,4,Development,1999
+F,3,"Human Resources",2000
+M,2,Finance,2000
