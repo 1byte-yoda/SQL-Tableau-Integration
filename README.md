@@ -3,8 +3,12 @@ SQL + Tableau integration
 
 Database used: https://www.dropbox.com/s/lhj4axkaupjhmbq/employees_mod.sql?dl=0
 
+# Database Schema
+  
 <html>
   <body>
+    <img src = 'https://github.com/PHMark/SQL-Tableau-Integration/raw/master/Schema.PNG'> </img>
+  <p> </p> <p> </p>
 <a href = 'https://github.com/PHMark/SQL-Tableau-Integration/tree/master/Sample%201'>Sample 1</a> - Contains SQL, CSV and a tableau visualization that provides a breakdown between the male and female employees working in the company each year, starting from 1990.
     <p> </p>
 <a href = 'https://github.com/PHMark/SQL-Tableau-Integration/tree/master/Sample%202'>Sample 2</a> - Contains SQL, CSV and a tableau visualization that compares the number of male managers to the number of female managers from different departments for each year, starting from 1990.
